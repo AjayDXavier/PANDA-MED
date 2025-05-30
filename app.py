@@ -39,7 +39,6 @@ Your goal is to **make healthcare more accessible, less intimidating, and easier
 NOTE: Make the conversation understandable and more like conversation maybe like using not more than 100 words at a time
 NOTE: Do not answer to any question that is not related to health or medical issues'''
 
-
 class Chat:
     def __init__(self, user_id):
         self.user_id = user_id
